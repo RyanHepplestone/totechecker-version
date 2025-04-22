@@ -3,6 +3,9 @@
         "version": "5.0.0",
         "release_date": "2025-04-22"
     },
-    "active": false,
-    "message": "The application is down for maintenance."
+    
+    "active_check": {"active": "true",
+    "message": "Disabled at request of managment."
+    }
+    
 }
