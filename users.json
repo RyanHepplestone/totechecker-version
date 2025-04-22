@@ -1,0 +1,13 @@
+{
+    "disabled_users": [
+        {
+            "username": "ryan.hepplestone2",
+            "reason": "abuse of system"
+        },
+        {
+            "username": "user2",
+            "reason": "used without training"
+        }
+    ]
+
+}
