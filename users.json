@@ -1,16 +1,8 @@
 {   "admins": [
-        {
-            "username": "ryan.hepplestone2"
-        },
-        {
-            "username": "dariusz.andrzejewski2"
-        },
-        {
-            "username": "craig.taylor"
-        },
-        {
-            "username": "john.butta2"
-        }
+    "ryan.hepplestone2",
+    "dariusz.andrzejewski2",
+    "craig.taylor",
+    "john.butta2"
     ],
     
     "disabled_users": [
