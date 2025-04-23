@@ -7,6 +7,9 @@
         },
         {
             "username": "craig.taylor"
+        },
+        {
+            "username": "john.butta2"
         }
     ],
     
@@ -18,6 +21,17 @@
         {
             "username": "user2",
             "reason": "used without training"
+        }
+    ],
+    "system_controllers": [
+        {
+            "username": "ryan.hepplestone2"
+        },
+        {
+            "username": "dariusz.andrzejewski2"
+        },
+        {
+            "username": "craig.taylor"
         }
     ]
 
