@@ -23,16 +23,9 @@
             "reason": "used without training"
         }
     ],
-    "system_controllers": [
-        {
-            "username": "ryan.hepplestone2"
-        },
-        {
-            "username": "dariusz.andrzejewski2"
-        },
-        {
-            "username": "craig.taylor"
-        }
-    ]
-
+"system_controllers": [
+    "ryan.hepplestone2",
+    "dariusz.andrzejewski2",
+    "craig.taylor"
+]
 }
