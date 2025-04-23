@@ -1,6 +1,6 @@
 {   "admins": [
         {
-            "username": "ryan.hepplestone"
+            "username": "ryan.hepplestone2"
         },
         {
             "username": "exampleuser"
@@ -9,7 +9,7 @@
     
     "disabled_users": [
         {
-            "username": "ryan.hepplestone2",
+            "username": "exampleuser",
             "reason": "abuse of system"
         },
         {
