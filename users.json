@@ -2,7 +2,10 @@
     "ryan.hepplestone2",
     "dariusz.andrzejewski2",
     "craig.taylor",
-    "john.butta2"
+    "john.butta2",
+    "pawel.grenda",
+    "tomas.brecka2",
+    "rashid.iqbal2"
     ],
     
     "disabled_users": [
@@ -18,6 +21,9 @@
 "system_controllers": [
     "ryan.hepplestone2",
     "dariusz.andrzejewski2",
-    "craig.taylor"
+    "craig.taylor",
+    "pawel.grenda",
+    "tomas.brecka2",
+    "rashid.iqbal2"
 ]
 }
