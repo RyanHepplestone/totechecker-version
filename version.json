@@ -1,8 +1,8 @@
 {
     "latest_version": {
-        "version": "5.0.3",
+        "version": "5.0.4",
         "release_date": "2025-04-07",
-        "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.0.3/ToteChecker.5.0.3.exe"
+        "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.0.4/ToteChecker.5.0.4.exe"
     },
     
     "active_check": {"active": "true",
