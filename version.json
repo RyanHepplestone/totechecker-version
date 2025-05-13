@@ -4,7 +4,8 @@
         "release_date": "2025-04-07",
         "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.0.7/ToteChecker.5.0.7.exe",
         "patch_notes": [
-            "Added Date field to scnned tiemstamps.",
+            "Added patch Notes to update Promt",
+            "Added Date field to scanned timestamps.",
             "changed logic so olpn_id returns to none after export."
         ]
     },
