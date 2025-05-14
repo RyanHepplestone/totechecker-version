@@ -1,8 +1,8 @@
 {
     "latest_version": {
-        "version": "5.0.8",
+        "version": "5.0.9",
         "release_date": "2025-04-07",
-        "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.0.8/ToteChecker.5.0.8.exe",
+        "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.0.9/ToteChecker.5.0.9.exe",
         "patch_notes": [
             "Added patch Notes to update Promt",
             "Added Date field to scanned timestamps.",
