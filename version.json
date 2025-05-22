@@ -4,7 +4,7 @@
         "release_date": "2025-04-07",
         "download_url": "https://github.com/ZeroLogic1/totechecker-version/releases/download/5.1.1/ToteChecker.5.1.1.exe",
         "patch_notes": 
-            "Added patch notes to update prompt.\nAdded date field to scanned timestamps.\nChanged logic so olpn_id returns to none after export.\nUpdated export directory for system controllers.\n"
+            "Updated role check function to enable insession sync.\n"
         
         
     },
