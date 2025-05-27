@@ -17,7 +17,7 @@
     "disabled_users": [
         {
             "username": "pavel.grenda",
-            "reason": " used without training"
+            "reason": " Skill Issue"
         },
         {
             "username": "craig.t",
@@ -35,5 +35,10 @@
     "shina.oyetunde2",
     "john.ransby",
     "ryan.hepplestone@allianceautomotive.co.uk"
+],
+"manhattan_roles": [
+    "AAG-AAU-ADMINROLE",
+    "RTM_FIRST_LINE_MANAGER",
+    "admin@AAG-AAU-RTM"
 ]
 }
