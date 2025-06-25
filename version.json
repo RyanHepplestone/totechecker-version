@@ -4,7 +4,7 @@
         "release_date": "2025-06-06",
         "download_url": "https://github.com/RyanHepplestone/totechecker-version/releases/download/5.1.7/ToteChecker.5.1.7.exe",
         "patch_notes": 
-            "Updated Flags logic.\nRemoved some legacy code.\n"
+            "Added Actual Location droplist.\n"
         
         
     },
