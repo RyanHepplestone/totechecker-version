@@ -1,0 +1,5 @@
+{
+    "api.py": "https://raw.githubusercontent.com/yourusername/yourrepo/main/api.py",
+    "auth.py": "https://raw.githubusercontent.com/yourusername/yourrepo/main/auth.py",
+    "config.py": "https://raw.githubusercontent.com/yourusername/yourrepo/main/config.py"
+}
