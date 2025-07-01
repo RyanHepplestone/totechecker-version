@@ -1,14 +1,14 @@
 {
     "latest_version": {
-        "version": "6.0.3",
+        "version": "6.0.1",
         "release_date": "2025-06-06",
-        "download_url": "https://github.com/RyanHepplestone/totechecker-version/releases/download/6.0.3/ToteChecker.Active.zip",
+        "download_url": "https://github.com/RyanHepplestone/totechecker-version/releases/download/6.0.1/ToteChecker.Active.exe",
         "patch_notes": 
-            "Moved to a ONEDIR system to avoid the need to unpack at application launch\n Will some setup ReadmeFIle incliuded in the ZIP"
+            "Added Shipping schedule.\n"   
     },
     
-    "active_check": {"active": "true",
-    "message": "Disabled"
+    "active_check": {"active": "false",
+    "message": "Please contact developer for latest version."
     }
     
 }
