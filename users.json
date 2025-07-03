@@ -38,10 +38,10 @@
     "ryan.hepplestone@allianceautomotive.co.uk"
 ],
 "manhattan_roles": [
-    "1AAG-AAU-ADMINROLE",
-    "1RTM_FIRST_LINE_MANAGER",
-    "1admin@AAG-AAU-RTM",
-    "1AAU First Line Manager",
+    "AAG-AAU-ADMINROLE",
+    "RTM_FIRST_LINE_MANAGER",
+    "admin@AAG-AAU-RTM",
+    "AAU First Line Manager",
     "1RTM First Line Manager"
 ]
 }
